@@ -1,0 +1,15 @@
+{
+    "name": "qiqizjl/addon-discuz",
+    "description": "Addon.Discuz.Com/Open.Discuz.Net SDK",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "耐小心",
+            "email": "qiqizjl@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
